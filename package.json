@@ -1,0 +1,25 @@
+{
+  "name": "first_websocketserver",
+  "version": "1.0.0",
+  "description": "server creation training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrArtga03/WebSocketServer.git"
+  },
+  "author": "Artyom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrArtga03/WebSocketServer/issues"
+  },
+  "homepage": "https://github.com/MrArtga03/WebSocketServer#readme",
+  "dependencies": {
+    "ws": "^8.12.0"
+  },
+  "optionalDependencies": {
+    "utf-8-validate": "^6.0.0"
+  }
+}
